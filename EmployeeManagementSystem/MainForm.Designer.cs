@@ -145,7 +145,7 @@
             this.addEmloyee_btn.Name = "addEmloyee_btn";
             this.addEmloyee_btn.Size = new System.Drawing.Size(304, 48);
             this.addEmloyee_btn.TabIndex = 3;
-            this.addEmloyee_btn.Text = "ADD EMPLOYEE";
+            this.addEmloyee_btn.Text = "EMPLOYEE MANAGEMENT";
             this.addEmloyee_btn.UseVisualStyleBackColor = false;
             this.addEmloyee_btn.Click += new System.EventHandler(this.addEmloyee_btn_Click);
             // 
