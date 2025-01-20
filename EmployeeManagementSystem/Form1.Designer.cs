@@ -149,6 +149,7 @@
             this.login_username.Name = "login_username";
             this.login_username.Size = new System.Drawing.Size(322, 35);
             this.login_username.TabIndex = 6;
+            this.login_username.TextChanged += new System.EventHandler(this.login_username_TextChanged);
             // 
             // login_password
             // 

@@ -204,6 +204,7 @@
             this.dashboard1.Name = "dashboard1";
             this.dashboard1.Size = new System.Drawing.Size(923, 648);
             this.dashboard1.TabIndex = 2;
+            this.dashboard1.Load += new System.EventHandler(this.dashboard1_Load);
             // 
             // addEmployee1
             // 
